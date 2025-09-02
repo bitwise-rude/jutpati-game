@@ -30,7 +30,7 @@ class Window():
 
 
     def mainloop(self):
-        ''' The main gameloop '''
+        ''' The maingameloop '''
         while self._running:
             self.screen.fill((0,0,0))
 
