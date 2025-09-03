@@ -28,6 +28,10 @@ class Card:
         self.suite = suite
         self.name = name
 
+        # their position on the screen
+        self.x = 0
+        self.y = 0
+
 
 class CardManager():
     ''' Manages Stuffs Related to Cards'''

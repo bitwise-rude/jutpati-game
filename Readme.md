@@ -2,5 +2,6 @@
 cool cool, you can contribute if you can
 
 ## TODO
-make card slots to move around 
-do other stuff
+make deck
+make ai logo
+make turn based shit
